@@ -1,6 +1,6 @@
 print('Loan Calculator!')
 print()
-print('$1000 for 10 years at 5% APR')
+print('$1000 for 10 years at 5% APR.')
 print()
 p = 1000
 for t in range(1,11):
